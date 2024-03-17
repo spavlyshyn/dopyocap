@@ -1,2 +1,2 @@
 # dopyocap
-dopyo
+helper function
